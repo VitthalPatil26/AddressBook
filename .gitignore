@@ -1,0 +1,13 @@
+# Compiled binaries
+addressbook
+*.o
+*.out
+*.exe
+
+# Runtime data (contains whatever contacts you add while using the app)
+database.csv
+
+# OS/editor junk
+.vscode/
+*.swp
+*~
